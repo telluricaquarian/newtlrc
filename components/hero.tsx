@@ -13,7 +13,7 @@ export function Hero() {
       <GL hovering={hovering} />
 
       <div className="pb-16 mt-auto text-center relative">
-        <Pill className="mb-6">BETA RELEASE</Pill>
+        <Pill className="mb-6">Age of Aquarius</Pill>
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-sentient">
           Welcome To <br />
           <i className="font-light">Telluric</i> Aquarian.com
