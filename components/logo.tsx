@@ -6,7 +6,7 @@ type LogoProps = Omit<ComponentProps<typeof Image>, "src" | "alt">;
 export const Logo = (props: LogoProps) => {
   return (
     <Image
-      src="/tlrclogo.png"
+      src="/logoisolate.png"
       alt="TLRC Logo"
       {...props}
     />
